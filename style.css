@@ -1,0 +1,14 @@
+body{
+    background-color: #349b9e;
+}
+div{
+    background-color: rgb(101, 109, 114);
+    border-radius: 10px;
+}
+.btn{
+  margin-top: 10px;
+  background-color: green;
+}
+h1{
+    text-align: center;
+}
